@@ -10,9 +10,16 @@
 		"astro": "astro"
 	},
 	"dependencies": {
-		"astro": "^2.0.10",
+		"@11ty/eleventy-fetch": "^3.0.0",
 		"@astrojs/mdx": "^0.16.0",
 		"@astrojs/rss": "^2.1.0",
-		"@astrojs/sitemap": "^1.0.1"
+		"@astrojs/sitemap": "^1.0.1",
+		"astro": "^2.0.10",
+		"html-entities": "^2.3.3",
+		"html-to-text": "^9.0.4",
+		"js-md5": "^0.7.3",
+		"markdown-to-txt": "^2.0.1",
+		"microsoft-cognitiveservices-speech-sdk": "^1.25.1",
+		"netlify-plugin-cache": "^1.0.3"
 	}
 }

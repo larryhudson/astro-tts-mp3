@@ -3,6 +3,10 @@ dist/
 # generated types
 .astro/
 
+# cache
+.cache
+.tmp-astro-text-to-speech
+
 # dependencies
 node_modules/
 
